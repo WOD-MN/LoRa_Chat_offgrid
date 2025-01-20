@@ -6,11 +6,14 @@ This project enables wireless communication between devices using LoRa technolog
 ![LoRa Chat Web Interface](IMG_1095.jpg)
 
 
+
 ## Features
 - **LoRa-Based Communication**: Send and receive messages over long distances using LoRa technology.
 - **Web Interface for Chat**: Access a chat interface through a WiFi access point to send messages.
 - **Real-Time Display**: An OLED screen displays received and sent messages.
 - **Customizable Web Server**: View received messages and send new ones via a dynamic HTML interface.
+
+![LoRa Chat Web Interface](IMG_1096.jpg)
 
 ## Components
 - **Heltec LoRa32 V2/V3**
