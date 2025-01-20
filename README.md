@@ -77,6 +77,10 @@ Replace `<IP_ADDRESS>` with the device's IP displayed on the OLED screen.
 - **LoRa Initialization Fails**: Verify SPI connections and the correct frequency.
 - **WiFi Issues**: Ensure your ESP32 is properly configured as an access point.
 
+
+
+![LoRa Chat Web Interface](IMG_1097.PNG)
+
 ## License
 This project is licensed under the MIT License.
 
