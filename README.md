@@ -3,6 +3,9 @@
 ## Overview
 This project enables wireless communication between devices using LoRa technology and provides a user-friendly web interface for sending and receiving messages. It creates a WiFi access point to host a simple web server for message transmission. The system is built using an ESP32-based Heltec LoRa32 V2/V3 development board.
 
+![LoRa Chat Web Interface](IMG_1095.jpg)
+
+
 ## Features
 - **LoRa-Based Communication**: Send and receive messages over long distances using LoRa technology.
 - **Web Interface for Chat**: Access a chat interface through a WiFi access point to send messages.
