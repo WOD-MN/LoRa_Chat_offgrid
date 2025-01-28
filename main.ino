@@ -12,7 +12,7 @@
 #define SS 18
 #define RST 14
 #define DI0 26
-#define BAND 915E6  // Set your frequency
+#define BAND 868E6  // Set your frequency
 
 // OLED display configuration
 #define SCREEN_WIDTH 128
